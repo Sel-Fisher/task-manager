@@ -15,6 +15,9 @@ Task Manager is a custom-built task management system designed to streamline col
 
 [Task manager deployed to Render](https://task-manager-o8qw.onrender.com/accounts/login/)
 
+Use these credentials to check out app on render.com:
+- Username: admin
+- Password: admin123
 ## Features
 
 
